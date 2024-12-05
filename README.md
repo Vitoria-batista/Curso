@@ -9,6 +9,7 @@ Desenvolver uma lista de tarefas simples para adicionar e remover tarefas
 - Remover tarefas
 
 ## Cronograma
-1. Criação da interface do usuário - 1
+1. Criação da interface do usuário - 1 
 2. Implementação da lógica(Adicionar e Remover tarefas) - 1 dia
 3. Editar tarefas - futuramente
+3. Arquivar tarefas - futuramente
